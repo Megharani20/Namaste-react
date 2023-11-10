@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 #heading{
     color: red;
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> 0a6ff96 (React food app)

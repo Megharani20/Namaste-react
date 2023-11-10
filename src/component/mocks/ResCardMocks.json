@@ -1,0 +1,69 @@
+{
+    "id": "5934",
+    "name": "Burger King",
+    "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹350 for two",
+    "cuisines": [
+        "Burgers",
+        "American"
+    ],
+    "avgRating": 4.2,
+    "feeDetails": {
+        "restaurantId": "5934",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 3100
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 3100
+    },
+    "parentId": "166",
+    "avgRatingString": "4.2",
+    "totalRatingsString": "10K+",
+    "sla": {
+        "deliveryTime": 18,
+        "lastMileTravel": 1,
+        "serviceability": "SERVICEABLE",
+        "slaString": "18 mins",
+        "lastMileTravelString": "1.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-10-01 05:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "EVERY ITEM",
+        "subHeader": "@ ₹129"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
